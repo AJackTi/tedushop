@@ -29,3 +29,5 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\bin\Debug\System.Se
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\bin\Debug\System.Security.Cryptography.Encoding.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\bin\Debug\System.Security.Cryptography.Primitives.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
