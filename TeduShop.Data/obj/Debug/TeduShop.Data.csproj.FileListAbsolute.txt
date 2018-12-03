@@ -1,0 +1,12 @@
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
