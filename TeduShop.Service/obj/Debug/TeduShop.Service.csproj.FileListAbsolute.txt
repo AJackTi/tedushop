@@ -22,3 +22,8 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\Entity
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\System.Net.Http.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Service\bin\Debug\System.Security.Cryptography.X509Certificates.dll

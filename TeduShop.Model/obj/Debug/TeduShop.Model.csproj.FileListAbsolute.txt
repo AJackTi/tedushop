@@ -18,3 +18,8 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\EntityFr
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\System.Net.Http.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Model\bin\Debug\System.Security.Cryptography.X509Certificates.dll
