@@ -81,8 +81,23 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reponsitories\FooterRepository.cs" />
+    <Compile Include="Reponsitories\MenuGroupRepository.cs" />
+    <Compile Include="Reponsitories\MenuRepository.cs" />
+    <Compile Include="Reponsitories\OrderDetailRepository.cs" />
+    <Compile Include="Reponsitories\OrderRepository.cs" />
+    <Compile Include="Reponsitories\PageRepository.cs" />
+    <Compile Include="Reponsitories\PostCategoryRepository.cs" />
+    <Compile Include="Reponsitories\PostRepository.cs" />
+    <Compile Include="Reponsitories\PostTagRepository.cs" />
     <Compile Include="Reponsitories\ProductCategoryRepository.cs" />
     <Compile Include="Reponsitories\ProductRepository.cs" />
+    <Compile Include="Reponsitories\ProductTagRepository.cs" />
+    <Compile Include="Reponsitories\SlideRepository.cs" />
+    <Compile Include="Reponsitories\SupportOnlineRepository.cs" />
+    <Compile Include="Reponsitories\SystemConfigRepository.cs" />
+    <Compile Include="Reponsitories\TagRepository.cs" />
+    <Compile Include="Reponsitories\VisitorStatisticRepository.cs" />
     <Compile Include="TeduShopDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
