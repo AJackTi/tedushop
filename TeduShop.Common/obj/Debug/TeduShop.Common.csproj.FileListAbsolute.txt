@@ -5,11 +5,10 @@ C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế vớ
 C:\Users\AJackTi\Downloads\Compressed\Khóa học làm dự án thực tế với AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
-C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
-C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
-C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Net.Http.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.Algorithms.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.Encoding.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.Primitives.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

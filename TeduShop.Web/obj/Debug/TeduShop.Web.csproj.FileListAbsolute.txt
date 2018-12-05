@@ -1,3 +1,4 @@
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\roslyn\csc.exe
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -34,6 +35,7 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\TeduShop.Service
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\TeduShop.UnitTest.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\WebGrease.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\EntityFramework.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\TeduShop.Common.pdb
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\TeduShop.Data.pdb
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\TeduShop.Model.pdb
@@ -53,6 +55,14 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Net.Http.
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Web.Http.xml
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Web.Http.WebHost.xml
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\EntityFramework.xml
-C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Moq.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Castle.Core.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Moq.pdb
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Moq.xml
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\Castle.Core.xml
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
