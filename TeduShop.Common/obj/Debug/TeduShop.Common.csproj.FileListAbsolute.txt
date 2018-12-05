@@ -10,5 +10,6 @@ C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.Encoding.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.Primitives.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 C:\Users\AJackTi\source\repos\AjackTi\tedushop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
