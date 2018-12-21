@@ -26,3 +26,4 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\TeduShop.Model.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.AddErrorTable.resources
