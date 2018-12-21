@@ -70,3 +70,5 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\System.Web.WebPa
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\EntityFramework.xml

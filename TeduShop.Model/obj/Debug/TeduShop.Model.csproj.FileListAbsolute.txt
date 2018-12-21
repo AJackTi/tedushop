@@ -11,3 +11,10 @@ C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Cod
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml

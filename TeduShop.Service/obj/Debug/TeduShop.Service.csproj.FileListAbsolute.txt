@@ -20,3 +20,5 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Model.pd
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\EntityFramework.xml
