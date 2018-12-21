@@ -9,3 +9,14 @@ C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Cod
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb

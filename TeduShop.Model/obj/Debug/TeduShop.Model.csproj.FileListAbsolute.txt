@@ -8,3 +8,6 @@ C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Cod
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 C:\Users\AJackTi\Downloads\Compressed\AngularJS, WebAPI và Entity Framework Code First\Project\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
