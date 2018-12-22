@@ -206,3 +206,15 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\AutoMapper.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\System.ValueTuple.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\AutoMapper.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\System.ValueTuple.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml

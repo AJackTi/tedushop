@@ -27,3 +27,9 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.AddErrorTable.resources
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.Changekey.resources

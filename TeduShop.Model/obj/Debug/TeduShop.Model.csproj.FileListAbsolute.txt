@@ -18,3 +18,7 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

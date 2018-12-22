@@ -22,3 +22,7 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\EntityFramework.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

@@ -96,3 +96,17 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\AutoMapper.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.pdb
 C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
