@@ -190,3 +190,15 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.CodeDom.Providers
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Owin.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.WebApi.pdb
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
