@@ -202,3 +202,7 @@ C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.WebApi.
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.xml
 C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\AutoMapper.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\System.ValueTuple.dll
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\AutoMapper.xml
+C:\Users\AJackTi\Documents\tedushop\TeduShop.Web\bin\System.ValueTuple.xml
